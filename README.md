@@ -1,7 +1,7 @@
 <h1 align="center">Hi 
   <a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </a>
   , I'm Sanuja Nethsuka</h1>
 <h3 align="center">Passionate IT Student</h3>
 
@@ -21,7 +21,6 @@
 - 💬 Ask me about **python | Web development**
 
 - 📫 How to reach me **nethsuka888@gmail.com**
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
